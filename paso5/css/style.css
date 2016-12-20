@@ -1,0 +1,41 @@
+body{
+	margin: 0px;
+	padding: 0px;
+}
+.pink{
+ width: 200px;
+ height: 200px; 
+ background-color:#ee3e64; 
+ position: absolute;
+ left:0px;
+ top:0px; 
+
+
+}
+.blue{
+width: 200px;
+height: 200px;
+background-color:#44accf;
+position: absolute;
+right:0px;
+top: 0px;
+
+}
+.green{
+width: 200px;
+height: 200px;
+background-color:#b7d84b;
+position: absolute;
+left:0px;
+bottom:0px;
+
+}
+.yellow{
+ width: 200px;
+ height:200px; 
+ background-color:#FFFF00;
+ position: absolute;
+ right:0px;
+ bottom:0px; 
+
+}
